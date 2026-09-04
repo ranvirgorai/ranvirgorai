@@ -24,10 +24,11 @@
 
 ### `~/whoami`
 
-Senior mobile engineer who works close to the platform &mdash; **differential binary updates, native modules, build pipelines, crash/ANR budgets** &mdash; and increasingly builds an **AI layer** that does the on-call work. Nine years across **fintech, ed-tech, and gaming**, most of it as the sole or lead React Native engineer on apps used by millions.
+Senior mobile engineer who works close to the platform &mdash; **differential binary updates, native modules, build pipelines, crash/ANR budgets** &mdash; and increasingly builds an **AI layer** that does the on-call work. Nine years across **fintech, ed-tech, and gaming**, most of it as the sole or lead React Native engineer on **consumer-facing apps used by millions every day**.
 
 - 🧠 **AI systems** &mdash; RAG pipelines, LangGraph agent graphs, LLM orchestration, and a production on-call agent that correlates alerts into incidents and drafts fixes before a human is paged.
 - 📱 **Mobile at scale** &mdash; multi-bundle, config-driven, micro-frontend app shells; 99.8%+ crash-free sessions; a React Native micro-app running inside PhonePe.
+- 📶 **Low-end &amp; offline-first** &mdash; high-volume consumer apps built for **entry-level Android** and **unreliable networks**: offline-first data and sync layers, tight bundle / memory / battery budgets, and graceful degradation under load.
 - ⚙️ **Systems depth** &mdash; shrank React Native OTA updates from **~10&nbsp;MB → &lt;150&nbsp;KB** using `bsdiff` / `bspatch` binary diffs.
 - 🚀 **Release engineering** &mdash; CI/CD end to end (Jenkins, CircleCI, Fastlane, GitHub Actions); test automation that cut manual QA effort ~30%.
 
@@ -86,25 +87,22 @@ Senior mobile engineer who works close to the platform &mdash; **differential bi
 
 ---
 
-### `~/experience --highlights`
-
-| When | Role | Where | Impact |
-|------|------|-------|--------|
-| **2026 — now** | Senior Software Engineer (SDE-3) | MyNaksh | Built the app from scratch on a scalable RN architecture; shipped an **AI on-call agent** (alert triage + incident analysis) that lowered MTTR; hold **99.8%+ crash-free**; cut manual QA ~30% |
-| **2022 — 2025** | Senior Software Engineer · Mobile Lead | Wayground (Quizizz) | **Differential RN releases: ~10 MB → &lt;150 KB** via `bsdiff` / `bspatch`; apps used by millions of learners; set architectural standards, mentored engineers |
-| **2019 — 2022** | Software Engineer | Instarem (NIUM) | Architected a RN **micro-app embedded inside PhonePe**; designed a **multi-bundle, config-driven architecture** for per-country features, localization &amp; regulatory needs |
-| **2017 — 2019** | Associate Software Developer | N. A. Sportz Interactive | Sole RN engineer; built a **super app** for UEFA Classic / UCL / UEL Fantasy — **5M+ downloads** |
-| **2016 — 2017** | Software Developer | WS Lab | Full-stack content delivery platform (web + mobile) with a behavioural **search &amp; recommendation** service |
-
-<sub><b>Education</b> — B.Tech, Computer Science &amp; Engineering · RVS College of Engineering &amp; Technology, Jamshedpur · 2012–2016</sub>
-
----
+<!-- Full experience history and education are kept in EXPERIENCE.md -->
 
 ### `~/stats`
 
 <p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ranvirgorai&show_icons=true&hide_border=true&title_color=F5811E&icon_color=46A6F0&text_color=A7B5C0&bg_color=0A0E12">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranvirgorai&layout=compact&hide_border=true&title_color=F5811E&text_color=A7B5C0&bg_color=0A0E12">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/ranvirgorai?style=flat-square&logo=github&label=followers&labelColor=1A222C&color=46A6F0">
+  &nbsp;
+  <img alt="On GitHub since 2013" src="https://img.shields.io/badge/on_GitHub-since_2013-F5811E?style=flat-square">
+  &nbsp;
+  <img alt="Based in Bangalore, IN" src="https://img.shields.io/badge/based_in-Bangalore,_IN-46D39E?style=flat-square">
+</p>
+
+<p align="center">
+  <img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ranvirgorai&show_icons=true&hide_border=true&theme=dark&title_color=F5811E&icon_color=46A6F0&cache_seconds=86400">
+  &nbsp;
+  <img height="150" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranvirgorai&layout=compact&hide_border=true&theme=dark&title_color=F5811E&cache_seconds=86400">
 </p>
 
 ---
