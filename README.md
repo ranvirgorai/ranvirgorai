@@ -94,15 +94,11 @@ Senior mobile engineer who works close to the platform &mdash; **differential bi
 <p align="center">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/ranvirgorai?style=flat-square&logo=github&label=followers&labelColor=1A222C&color=46A6F0">
   &nbsp;
-  <img alt="On GitHub since 2013" src="https://img.shields.io/badge/on_GitHub-since_2013-F5811E?style=flat-square">
+  <a href="https://ranvirgorai.in/"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-ranvirgorai.in-46A6F0?style=flat-square&logo=firefoxbrowser&logoColor=white"></a>
   &nbsp;
-  <img alt="Based in Bangalore, IN" src="https://img.shields.io/badge/based_in-Bangalore,_IN-46D39E?style=flat-square">
-</p>
-
-<p align="center">
-  <img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ranvirgorai&show_icons=true&hide_border=true&theme=dark&title_color=F5811E&icon_color=46A6F0&cache_seconds=86400">
+  <img alt="On GitHub since 2013" src="https://img.shields.io/badge/on_GitHub-since_2013-1A222C?style=flat-square">
   &nbsp;
-  <img height="150" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranvirgorai&layout=compact&hide_border=true&theme=dark&title_color=F5811E&cache_seconds=86400">
+  <img alt="Open to senior / staff roles" src="https://img.shields.io/badge/open_to-senior_%2F_staff_roles-46D39E?style=flat-square">
 </p>
 
 ---
