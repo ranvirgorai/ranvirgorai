@@ -1,7 +1,7 @@
 <h1 align="center">Ranvir&nbsp;Gorai</h1>
 
 <p align="center">
-  <b>Senior Software Engineer (SDE-3)</b> &nbsp;·&nbsp; Bangalore, India<br>
+  <b>Senior Software Engineer (SDE-3 &rarr; Staff)</b> &nbsp;·&nbsp; Bangalore, India<br>
   9+ years shipping cross-platform apps for <b>iOS &amp; Android</b> to millions of users &mdash;<br>
   now building <b>AI into the runtime</b>: RAG pipelines, LangGraph agents, and an on-call agent that triages incidents on its own.
 </p>
